@@ -1,0 +1,136 @@
+[
+   
+    {
+        "id": 1,
+        "question": "Who painted the Mona Lisa ?",
+        "ans": "Leonardo da Vinci",
+        "anslist":{
+            "op1":"Leonardo da Vinci",
+            "op2":"Michelangelo",
+            "op3":"Raphael",
+            "op4":"Caravaggio"
+        }
+    },
+    {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet ?",
+        "ans": "Mars",
+        "anslist":{
+            "op1":"Venus",
+            "op2":"Mars",
+            "op3":"Jupiter",
+            "op4":"Saturn"
+        }
+    },
+    {
+        "id": 3,
+        "question": "Who discovered electricity ?",
+        "ans": "Benjamin Franklin",
+        "anslist":{
+            "op1":"Isaac Newton",
+            "op2":"Nikola Tesla",
+            "op3":"Michael Faraday",
+            "op4":"Benjamin Franklin"
+        }
+    },
+    {
+        "id": 4,
+        "question": "What is the world's largest ocean ?",
+        "ans": "Pacific Ocean",
+        "anslist":{
+            "op1":"Atlantic Ocean",
+            "op2":"Pacific Ocean",
+            "op3":"Indian Ocean",
+            "op4":"Southern Ocean"
+        }
+    },
+    {
+        "id": 5,
+        "question": "Who came up with the theory of relativity ?",
+        "ans": "Albert Einstein",
+        "anslist": {
+            "op1":"Edgar Allan Poe",
+            "op2":"Albert Einstein",
+            "op3":"Galileo Galilei",
+            "op4":"Louis Pasteur"
+        }
+    },
+    {
+        "id": 6,
+        "question": "What is the national bird of the United States ?",
+        "ans": "Eagle",
+        "anslist": {
+            "op1":"Eagle",
+            "op2":"Bald Eagle",
+            "op3":"Condor",
+            "op4":"Pigeon"
+        }
+    },
+    {
+        "id": 7,
+        "question": "What language is spoken in Brazil ?",
+        "ans": "Portuguese",
+        "anslist": {
+            "op1":"Spanish",
+            "op2":"Portuguese",
+            "op3":"English",
+            "op4":"French"
+        }
+    },
+    {
+        "id": 8,
+        "question": "Who directed the movie Jurassic Park ?",
+        "ans": "Steven Spielberg",
+        "anslist": {
+            "op1":"Steven Spielberg",
+            "op2":"George Lucas",
+            "op3":"Michael Bay",
+            "op4":"Stanley Kubrick"
+        }
+    },
+    {
+        "id": 9,
+        "question": "What does NASA stand for ?",
+        "ans": "National Aeronautics and Space Administration",
+        "anslist": {
+            "op1":"North American Satellite Association",
+            "op2":"National Aeronautics and Space Administration",
+            "op3":"National Association of Space Astronauts",
+            "op4":"National American Space Association"
+        }
+    },
+    {
+        "id": 10,
+        "question": "Who is the CEO of Tesla ?",
+        "ans": "Elon Musk",
+        "anslist": {
+            "op1":"Jeff Bezos",
+            "op2":"Mark Zuckerberg",
+            "op3":"Tim Cook",
+            "op4":"Elon Musk"
+        }
+    },
+    {
+        "id": 11,
+        "question": "In what year was Facebook founded ?",
+        "ans": "2004",
+        "anslist": {
+            "op1":"2000",
+            "op2":"2004",
+            "op3":"2012",
+            "op4":"2018"
+        }
+    },
+    {
+        "id": 12,
+        "question": "What is the biggest animal in the world ?",
+        "ans": "Blue Whale",
+        "anslist": {
+            "op1":"African Elephant",
+            "op2":"Blue Whale",
+            "op3":"Saltwater Crocodile",
+            "op4":"White Rhinoceros"
+        }
+    }
+   
+]
